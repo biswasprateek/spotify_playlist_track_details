@@ -7,8 +7,6 @@ library(spotifyr)
 # library(stringr)
 library(tidyr)
 
-setwd('C:/Workspace/R/spotify_apps/Playlist_Track_Grabber')
-
 #1 - Authentication
 
 df_token <- read.csv(file = 'token.csv')
