@@ -1,10 +1,5 @@
 library(spotifyr)
-# library(httpuv)
-# library(lubridate)
- library(dplyr)
-# library(httr)
-# library(purrr)
-# library(stringr)
+library(dplyr)
 library(tidyr)
 
 #1 - Authentication
