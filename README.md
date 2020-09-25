@@ -1,6 +1,6 @@
-#Spotify PLaylist Track Details Extractor
+# Spotify PLaylist Track Details Extractor
 
-Version 1.0
+## Version 1.0
 -- This code can be used to pull track details from Spotify Playlists
 -- The code dynamically calculates the length of the playlist to set offset values to get all the tracks and not be restricted by the 100 track limit of one one API call to the spotify playlist. 
 
